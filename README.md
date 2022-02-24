@@ -1,11 +1,18 @@
 
 # SK66112 NRF52832 PA/LNA Ping pong example
 
-네이버 스마트 스토어에서 구매 가능합니다.
+-------------------------
+
+Device can be purchased from the Naver Smart Store.
 <br>
 
-[네이버 스마트 스토어](https://smartstore.naver.com/axden)
+[Purchase Link : naver smart store](https://smartstore.naver.com/axden)
 <br>
+<br>
+
+You can purchase it by contacting sales@axden.io
+
+-------------------------
 
 ### NRF52832 SDK Download
 <br>
